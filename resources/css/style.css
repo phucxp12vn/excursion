@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.main-title {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.sub-title {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+a.link-download{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.copy-righter {
+    text-align: right;
+    color: gray;
+}
+
